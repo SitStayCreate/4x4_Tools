@@ -1,2 +1,2 @@
-# MPD226_Tools
-Max/MSP tools for Akai MPD226 MIDI controller
+# 4x4_Tools
+Max/MSP tools for MPC-style MIDI controller
